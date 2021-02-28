@@ -1,4 +1,4 @@
 results
-welcome.txt
-paul.html
-peter.cvs
+*.txt
+*.html
+*.cvs
